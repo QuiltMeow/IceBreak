@@ -1,0 +1,14 @@
+E:\User Data\repos\IceBreak\Installer\bin\Release\Installer.exe
+E:\User Data\repos\IceBreak\Installer\bin\Release\Installer.pdb
+E:\User Data\repos\IceBreak\Installer\obj\Release\Installer.csprojAssemblyReference.cache
+E:\User Data\repos\IceBreak\Installer\obj\Release\Installer.Properties.Resources.resources
+E:\User Data\repos\IceBreak\Installer\obj\Release\Installer.csproj.GenerateResource.cache
+E:\User Data\repos\IceBreak\Installer\obj\Release\Installer.exe
+E:\User Data\repos\IceBreak\Installer\obj\Release\Installer.pdb
+G:\VSProject\IceBreak\Installer\bin\Release\Installer.exe
+G:\VSProject\IceBreak\Installer\bin\Release\Installer.pdb
+G:\VSProject\IceBreak\Installer\obj\Release\Installer.Properties.Resources.resources
+G:\VSProject\IceBreak\Installer\obj\Release\Installer.csproj.GenerateResource.cache
+G:\VSProject\IceBreak\Installer\obj\Release\Installer.csproj.CoreCompileInputs.cache
+G:\VSProject\IceBreak\Installer\obj\Release\Installer.exe
+G:\VSProject\IceBreak\Installer\obj\Release\Installer.pdb

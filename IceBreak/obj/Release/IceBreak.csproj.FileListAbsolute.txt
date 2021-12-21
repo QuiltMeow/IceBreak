@@ -1,0 +1,26 @@
+E:\User Data\repos\IceBreak\IceBreak\bin\Release\IceBreak.exe
+E:\User Data\repos\IceBreak\IceBreak\bin\Release\IceBreak.pdb
+E:\User Data\repos\IceBreak\IceBreak\obj\Release\IceBreak.csprojAssemblyReference.cache
+E:\User Data\repos\IceBreak\IceBreak\obj\Release\IceBreak.AboutForm.resources
+E:\User Data\repos\IceBreak\IceBreak\obj\Release\IceBreak.GameField.resources
+E:\User Data\repos\IceBreak\IceBreak\obj\Release\IceBreak.GameForm.resources
+E:\User Data\repos\IceBreak\IceBreak\obj\Release\IceBreak.MainMenu.resources
+E:\User Data\repos\IceBreak\IceBreak\obj\Release\IceBreak.Properties.Resources.resources
+E:\User Data\repos\IceBreak\IceBreak\obj\Release\IceBreak.ReplayForm.resources
+E:\User Data\repos\IceBreak\IceBreak\obj\Release\IceBreak.ScoreBoard.resources
+E:\User Data\repos\IceBreak\IceBreak\obj\Release\IceBreak.csproj.GenerateResource.cache
+E:\User Data\repos\IceBreak\IceBreak\obj\Release\IceBreak.exe
+E:\User Data\repos\IceBreak\IceBreak\obj\Release\IceBreak.pdb
+G:\VSProject\IceBreak\IceBreak\bin\Release\IceBreak.exe
+G:\VSProject\IceBreak\IceBreak\bin\Release\IceBreak.pdb
+G:\VSProject\IceBreak\IceBreak\obj\Release\IceBreak.AboutForm.resources
+G:\VSProject\IceBreak\IceBreak\obj\Release\IceBreak.GameField.resources
+G:\VSProject\IceBreak\IceBreak\obj\Release\IceBreak.GameForm.resources
+G:\VSProject\IceBreak\IceBreak\obj\Release\IceBreak.MainMenu.resources
+G:\VSProject\IceBreak\IceBreak\obj\Release\IceBreak.Properties.Resources.resources
+G:\VSProject\IceBreak\IceBreak\obj\Release\IceBreak.ReplayForm.resources
+G:\VSProject\IceBreak\IceBreak\obj\Release\IceBreak.ScoreBoard.resources
+G:\VSProject\IceBreak\IceBreak\obj\Release\IceBreak.csproj.GenerateResource.cache
+G:\VSProject\IceBreak\IceBreak\obj\Release\IceBreak.csproj.CoreCompileInputs.cache
+G:\VSProject\IceBreak\IceBreak\obj\Release\IceBreak.exe
+G:\VSProject\IceBreak\IceBreak\obj\Release\IceBreak.pdb
